@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605905707 source:c:\users\natas\desktop\lista2\main.cpp
+	<iostream>
+	<locale.h>
+	<vector>
+
